@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<project version="4">
+
+
+-<component name="ChangeListManager">
+
+
+-<list name="Changes" comment="" id="89192b83-ee2c-45f1-9df7-13be17c97d09" default="true">
+
+<change afterDir="false" afterPath="$PROJECT_DIR$/../cp_3/todo_app/serializers.py"/>
+
+<change afterDir="false" afterPath="$PROJECT_DIR$/../cp_3/todo_app/urls.py"/>
+
+<change afterDir="false" afterPath="$PROJECT_DIR$/blogs/serializers.py"/>
+
+<change afterDir="false" afterPath="$PROJECT_DIR$/blogs/urls.py"/>
+
+</list>
+
+<option name="SHOW_DIALOG" value="false"/>
+
+<option name="HIGHLIGHT_CONFLICTS" value="true"/>
+
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+
+<option name="LAST_RESOLUTION" value="IGNORE"/>
+
+</component>
+
+
+-<component name="Git.Settings">
+
+<option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.."/>
+
+</component>
+
+
+-<component name="MarkdownSettingsMigration">
+
+<option name="stateVersion" value="1"/>
+
+</component>
+
+<component name="ProjectId" id="2MJ2eBonmJN4TXykRvVGs91JREW"/>
+
+
+-<component name="ProjectViewState">
+
+<option name="hideEmptyMiddlePackages" value="true"/>
+
+<option name="showLibraryContents" value="true"/>
+
+</component>
+
+
++<component name="PropertiesComponent">
+
+-<![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Томирис/Desktop/back/midterm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]>
+<component name="SpellCheckerSettings" transferred="true" UseSingleDictionary="true" DefaultDictionary="application-level" CustomDictionaries="0" Folders="0" RuntimeDictionaries="0"/>
+
+
+-<component name="TaskManager">
+
+
+-<task id="Default" summary="Default task" active="true">
+
+<changelist name="Changes" comment="" id="89192b83-ee2c-45f1-9df7-13be17c97d09"/>
+
+<created>1677471457436</created>
+
+<option name="number" value="Default"/>
+
+<option name="presentableId" value="Default"/>
+
+<updated>1677471457436</updated>
+
+</task>
+
+<servers/>
+
+</component>
+
+
+-<component name="Vcs.Log.Tabs.Properties">
+
+
+-<option name="TAB_STATES">
+
+
+-<map>
+
+
+-<entry key="MAIN">
+
+
+-<value>
+
+<State/>
+
+</value>
+
+</entry>
+
+</map>
+
+</option>
+
+</component>
+
+</project>
